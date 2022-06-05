@@ -75,7 +75,7 @@ const LayoutBase = (props) => {
         </div>
       </div>
 
-      <Footer title={siteInfo?.title}/>
+      {/* <Footer title={siteInfo?.title}/> */}
       </>
   )
 }
